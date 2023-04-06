@@ -1,0 +1,10 @@
+﻿  Origem.cpp
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(73,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(265,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(293,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(294,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(298,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(299,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(301,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Hello3D - Pyramid\Origem.cpp(302,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Hello3D - Pyramid.vcxproj -> C:\Users\carlo\Downloads\CG2023-1-main\Hello3D - Camera - POA\Debug\Hello3D - Pyramid.exe
